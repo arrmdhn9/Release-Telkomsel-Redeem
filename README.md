@@ -5,7 +5,7 @@
 
 ### Biaya : 
 1. Rp300.000 untuk satu kali pembayaran
-2. Rp50.000 untuk pergantian / perpindahan aplikasi ke komputer lainnya
+2. Rp100.000 untuk pergantian / perpindahan aplikasi ke komputer lainnya
 3. Gratis biaya update jika update bugs / minor
 4. Gratis biaya bulanan / tahunan
 
